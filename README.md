@@ -1,2 +1,2 @@
 # DataFoundries
-Initial homepage for Data Foundries, LLC
+Tools the forge data into actionable information
