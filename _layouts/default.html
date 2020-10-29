@@ -24,7 +24,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <header class="page-header" role="banner" style="background-image: url('/foundry-image.jpg');">
+    <header class="page-header" role="banner"
+            style="background-image: url('/foundry-image.jpg');
+                    background-repeat: round;">
       <h1 class="project-name" style="-webkit-text-stroke: 1px #555;">Data Foundries</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
