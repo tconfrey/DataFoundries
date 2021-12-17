@@ -24,7 +24,10 @@ This allows the information content inherent in healthcare data to be annotated 
 </div>
 Health Value Pipelines are threads of value woven into the healthcare ecosystem by way of data processing and information creation, both by humans and intelligent automations, and by collaborations between the two. See [HealthValuePipelines.com](https://healthvaluepipelines.com)
 
-# Fun-Tipper: Can you find a good palindromic tip?
+<div style="display:flex; align-items:center">
+<img src="./fun-tipper.ico" alt="Fun-tipper" style="height: 50px; width:50px; margin-right:20px"/>
+<h1>Fun-Tipper</h1>
+</div>
 A Palindromic Tip is where both the tip and total amounts read the same forward and backward. Fun-tipper is a fun little app that finds them. Can you find one before checking the app? Try it the next time you are dining out. Check it out and pin it to your home screen: [fun-tipper.com](https://fun-tipper.com/)
 
 | Cost | $72.38 |
