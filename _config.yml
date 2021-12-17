@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-title: "Data Foundaries"
-description: "Tools that forge data into actionable information"
+plugins:
+  - jekyll-sitemap  
+title: Data Foundaries
+description: Tools that forge data into actionable information
